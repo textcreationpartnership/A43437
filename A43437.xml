@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroic poem on the Observator</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43437</idno>
+            <idno type="STC">Wing H1587A</idno>
+            <idno type="STC">ESTC R10422</idno>
+            <idno type="EEBO-CITATION">11818091</idno>
+            <idno type="OCLC">ocm 11818091</idno>
+            <idno type="VID">49551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroic poem on the Observator</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Streater, for H. Million ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On Sir Roger L'Estrange.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49551:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:49551:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>An HEROICK POEM ON THE Obſervator.</p>
+            <q>
+               <l>—His mens generoſa moveri,</l>
+               <l>Accendi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſolet ſimilem ad virtutis amorem.</l>
+               <bibl>Claud.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Streater,</hi> for <hi>H. Million,</hi> Living in St. <hi>Pauls</hi>-Chain, Statio<g ref="char:EOLhyphen"/>ner. MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:49551:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:49551:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>AN Heroick Poem ON THE OBSERVATOR.</head>
+            <lg>
+               <l>WHen by the Juſtice of Divine De<g ref="char:EOLhyphen"/>cree,</l>
+               <l>Great Exil'd <hi>CHARLES,</hi> with God-like Majeſty,</l>
+               <l>Reſum'd his Injur'd Throne; and thence once more,</l>
+               <l>Our baniſh't Bleſſings <hi>Caeſar</hi> did reſtore;</l>
+               <l>The eaſie Laws reclaim'd the guiddy Throng,</l>
+               <l>And <hi>Halcion</hi> Years then ſmoothly danc't along,</l>
+               <l>
+                  <pb n="2" facs="tcp:49551:3"/>
+                  <!-- PDF PAGE 3 -->
+Such firm ſecureneſs on each Face appear'd,</l>
+               <l>The Sword of Juſtice was more Lov'd then fear'd,</l>
+               <l>'Twas now, that all the fierce Grandees of Hell,</l>
+               <l>(Enrag'd to ſee their late rais'd <hi>Machin</hi> fell)</l>
+               <l>Iſſu'd new Summons to their aged States,</l>
+               <l>To frame freſh Projects by their black Debates,</l>
+               <l>And once again by their Infernal Wile,</l>
+               <l>Ranſack the Glories of our happy Iſle;</l>
+               <l>Long this Divan, in conſult brooding Sate,</l>
+               <l>To hatch the Embri'o of malicious Fate;</l>
+               <l>At length each Furie had his Charge apart,</l>
+               <l>And diſmal Scheamst' aſſiſt their powerful Dart:</l>
+               <l>The Work began; and the Invading Hoſt,</l>
+               <l>Wrap't in dark Miſts approach't the <hi>Brittiſh</hi>-Coaſt;</l>
+               <l>Whoſe Guardian Angel, ſoon with watchful Eyes,</l>
+               <l>Deſcry'd th' Intent of ſuch a baſe Surpriſe.</l>
+               <l>With quick expanded wings from Heaven fled,</l>
+               <l>And darting came to good <hi>L'ESTRANGE'S</hi> Bed.</l>
+               <l>
+                  <pb n="3" facs="tcp:49551:3"/>
+                  <!-- PDF PAGE 3 -->
+That LOYAL BARD who was alone thought fitt,</l>
+               <l>To ſtem the Torrent of a Devil's Witt,</l>
+               <l>Whilſt the bright Meſſinger his head ſuſ<g ref="char:EOLhyphen"/>tain'd,</l>
+               <l>His buiſſy Fancy thus he entertain'd.</l>
+               <l>Thou beſt of Subjects, to the beſt of Kings;</l>
+               <l>Hear now the Tydings, that an Angle brings;</l>
+               <l>A Band of Feinds, from the Abiſs are ſent,</l>
+               <l>To raiſe new Feuds from long hid Diſcontent.</l>
+               <l>Though Princely Grace, has ſeem'd to quench the Rage,</l>
+               <l>Which late has ſtain'd the Anuals of your Age:</l>
+               <l>The Embers yet, fann'd by this Helliſh Crew,</l>
+               <l>In rapid Flames will ſoon break forth a new.</l>
+               <l>Riſe then and ſtop the progreſs of the Foe,</l>
+               <l>Kind Heaven has choſe you to divert the blow;</l>
+               <l>With that his balmy Plumes extending forth,</l>
+               <l>He kindly graſp't ſo true entrinſick Worth:</l>
+               <l>Then touch't his Tongue with a Coeleſtial Dew,</l>
+               <l>Bleſt the Event, and ſwiftly upwards flew;</l>
+               <l>
+                  <pb n="4" facs="tcp:49551:4"/>
+                  <!-- PDF PAGE 4 -->
+Soon the good Man awoke, and pond'ring weigh'd</l>
+               <l>The deep impreſſions, which the Viſion made;</l>
+               <l>Not Unobſerv'd before, by his Dread Pen,</l>
+               <l>Had ſcap't Remarques of baſe ungrateful Men;</l>
+               <l>He ſaw the Tracts in which they warely crep't,</l>
+               <l>He ſaw't (and for their deſp'rate Folly wep't)</l>
+               <lg>
+                  <l>He ſaw the Gloſs of ev'ry weak Pretence</l>
+                  <l>Drawn forth to ſhrowd the Bulk of their Of<g ref="char:EOLhyphen"/>fence,</l>
+                  <l>And blind the Peoples Raſh Unthinking Sence.</l>
+               </lg>
+               <l>Strait then he roſe, and with Profectick Skill</l>
+               <l>Sure to diſperſe the gather'd boading Ill,</l>
+               <l>Fled to his Prince with quick and zealous Care,</l>
+               <l>And thus imploy'd his Royal Maſter's Ear.</l>
+            </lg>
+            <lg>
+               <l>Heav'n Bleſs the KING—</l>
+               <l>Still lives the Seed of that Gigantick Race,</l>
+               <l>That did attempt the God-head to diſplace,</l>
+               <lg>
+                  <pb n="5" facs="tcp:49551:5"/>
+                  <!-- PDF PAGE 4 -->
+                  <l>Their impious hands, but late they did imbrew</l>
+                  <l>In Royal Martyr's Blood, and now perſue,</l>
+                  <l>Their brutiſh Rage, againſt Indulging <hi>YO<g ref="char:V">Ʋ</g>.</hi>
+                  </l>
+               </lg>
+               <l>Strange is the guilt of that pernicious mind,</l>
+               <l>That dares conſpire againſt a Prince ſo kind.</l>
+               <l>With feign'd Chimeras they amuſe the Throne,</l>
+               <l>And ſeem to watch what they aſſault alone.</l>
+               <l>A guarding ſheild is reacht in friendly ſhow,</l>
+               <l>By the ſame Hand that means to give the Blow;</l>
+               <l>Truſt not the Service of <hi>Phanatick-zeal,</hi>
+               </l>
+               <l>The worſt of Crimes, draws a Religious Veil.</l>
+               <l>This ſaid: The Monarch with a ſmiling Look,</l>
+               <l>Cloſe to his Boſome the Great Prophet took.</l>
+               <l>Told him with Grateful thanks, he did ap<g ref="char:EOLhyphen"/>prove,</l>
+               <l>Th' apparent Candor, of his Active Love,</l>
+               <l>Bad him prepare to countermine that Spight,</l>
+               <l>That's lay'd to ſpring the Bulwark of his Right,</l>
+               <l>That on his Judgment, he did moſt rely,</l>
+               <l>Beſt to defeat the daring Enimy;</l>
+               <l>
+                  <pb n="6" facs="tcp:49551:5"/>
+                  <!-- PDF PAGE 5 -->
+Bad him make known, the Cheat of Clam'rous Fears,</l>
+               <l>And Charm the deafneſs of deluded Ears.</l>
+               <l>When thus <hi>L'ESTRENGE,</hi> had his Commiſ<g ref="char:EOLhyphen"/>ſion giv'n,</l>
+               <l>(The King confirming the aſſign'd of Heaven)</l>
+               <l>Enter'd the Liſts, and Boldly did Oppoſe,</l>
+               <l>The joynt Attaque of all his Monarchs Foes.</l>
+               <l>Convincing Reaſon, was his <hi>Gorgen-ſheild,</hi>
+               </l>
+               <l>And ſtedfaſt LOYALTY this Champions Feild.</l>
+               <l>With Vollies of his Wit, their Phalanx Rent,</l>
+               <l>And <hi>Dagon</hi> fell with Potent Argument</l>
+               <l>Let's now erect a Due Triumphal Arch,</l>
+               <l>Whilſt Troups of Flamens ſhall attend his March,</l>
+               <l>And then Ye Muſes all in conſort joine,</l>
+               <l>Thus whilſt we pay, our Offrings at his Shrine.</l>
+            </lg>
+            <lg>
+               <l>HAIL Matchleſs <hi>HE!</hi> HAIL our Auſpicious Guide,</l>
+               <l>The Clergy's Darling, and the States-men's Pride;</l>
+               <l>
+                  <pb n="7" facs="tcp:49551:5"/>
+                  <!-- PDF PAGE 5 -->
+The happy Patriot, whoſe induſtrious Care,</l>
+               <l>Has quel'd that Storm, which boundleſs did Appear,</l>
+               <l>That never was a Calm 'till now, or means more dear.</l>
+               <l>When Faction did like a Contagion ſpred,</l>
+               <l>On you the Nation lean'd it's drooping Head,</l>
+               <l>Who next the Throne, ſuch Soveraigne deeds did do,</l>
+               <l>An age of Miracles reviv'd in You,</l>
+               <l>From You i'ts Peace, muſt Gratfull England date,</l>
+               <l>Bles't <hi>Eſculapius</hi> of the ſalved State,</l>
+               <l>Who wrought that Cure, which ſeem oppos'd by Fate.</l>
+               <l>In vaine would Rebells Piouſly diſguiſe,</l>
+               <l>Their black Deſigns or longer cheat our eyes,</l>
+               <l>Their guilded Cavils, now falſe Lights are known,</l>
+               <l>And all their Specious Pop'lar Shams o're-thrown,</l>
+               <l>
+                  <pb n="8" facs="tcp:49551:6"/>
+                  <!-- PDF PAGE 6 -->
+Whilſt your profounder reaſons gain theſe odds,</l>
+               <l>Like <hi>Arons</hi> swallowing up th' <hi>Egiptians</hi> Rods.</l>
+            </lg>
+            <lg>
+               <l>HAIL <hi>OBSERVATOR!</hi> Genius of our Age,</l>
+               <l>That ſtood the ſhock, of the <hi>Phanatick</hi> Rage,</l>
+               <l>Like <hi>Oedipus</hi> ſo Sacred now to all,</l>
+               <l>You ſav'd your Countrey, with theſe <hi>Sphynxes</hi> Fall,</l>
+               <l>Who veiw your Conqueſts, with diſpairing Eyes,</l>
+               <l>To ſee us flouriſh, and You gain the Prize,</l>
+               <l>Yet Eney't ſelf, muſt give you this applauſe,</l>
+               <l>Never was better Pen, or better Cauſe.</l>
+            </lg>
+            <lg>
+               <l>HAIL once more our Palladium of defence,</l>
+               <l>Great Oracle of Wit and Eloquence,</l>
+               <l>The truly fit to ſpeak a Nations ſence.</l>
+               <l>Our Engliſh <hi>Tully</hi> who ha's ſtill prevail'd,</l>
+               <l>Your Pen ſucceeded where the Sword ha's fail'd;</l>
+               <l>Your Weighty Lines ſtill ſuch Impreſſions took,</l>
+               <l>Not more the Voice, which from Mount <hi>Sinai</hi> ſpoke:</l>
+               <l>
+                  <pb n="9" facs="tcp:49551:6"/>
+                  <!-- PDF PAGE 6 -->
+When ſtubborn <hi>Jews</hi> upon their Faces fell,</l>
+               <l>Submitting ſtraight, who did before Rebel.</l>
+            </lg>
+            <lg>
+               <l>Hence ſeem the Furies now of diſcord fled,</l>
+               <l>Whilſt you appear a Cherub at our Head;</l>
+               <l>This doe's ſecurity to our Peace afford,</l>
+               <l>Your Wits as dreadful as the Flaming Sword.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
